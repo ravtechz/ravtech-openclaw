@@ -1,8 +1,6 @@
 # OpenClaw pe VPS — Agenti AI cu Personalitate (Severance Edition)
 
-Repo companion pentru [videoul de pe ravtech](https://youtube.com/@ravtech) despre **OpenClaw** — o platforma open-source care iti permite sa rulezi agenti AI direct pe VPS-ul tau.
-
-In acest video am creat o echipa de agenti inspirata din serialul **Severance**: Mr. Milchick (coordonatorul), Mark S. (executantul) si Helly R. (cercetatoarea). Fiecare agent are personalitate, reguli de comportament si un rol clar in echipa.
+Repo pentru [videoul](https://youtu.be/fNxqCm8U0p0) despre **OpenClaw** — o platforma open-source care iti permite sa rulezi agenti AI direct pe VPS-ul tau.
 
 ## Ce gasesti aici
 
@@ -128,7 +126,7 @@ Tu (laptop) ──SSH tunnel──> VPS (OpenClaw)
 ## Link-uri utile
 
 - [OpenClaw](https://openclaw.ai) — site oficial
-- [ravtech pe YouTube](https://youtube.com/@ravtech) — canalul unde gasesti videoul complet
+- [ravtech pe YouTube](https://youtu.be/fNxqCm8U0p0) — canalul unde gasesti videoul complet
 
 ---
 
