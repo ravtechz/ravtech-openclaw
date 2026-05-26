@@ -1,6 +1,6 @@
 # OpenClaw pe VPS — Agenti AI cu Personalitate (Severance Edition)
 
-Repo pentru [videoul](https://youtu.be/fNxqCm8U0p0) despre **OpenClaw** — o platforma open-source care iti permite sa rulezi agenti AI direct pe VPS-ul tau.
+Repo pentru [video-ul](https://youtu.be/fNxqCm8U0p0) despre **OpenClaw** — o platforma open-source care iti permite sa rulezi agenti AI direct pe VPS-ul tau.
 
 ## Ce gasesti aici
 
